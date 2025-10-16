@@ -1,11 +1,5 @@
 
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Omm+Rout!+👋;Web+Developer+%7C+AI+%26+IoT+Innovator;Founder+-+Drone+Automation+System+(DAS);5x+Hackathon+Winner+🏆" alt="OMM ROUT" />
-  </a>
-</h1>
-
+<h1 align="center">🚀 Hi there, I'm Omm Rout! 👋</h1>
 <p align="center">
   <b>Tech Enthusiast | Web Developer | AI & IoT Researcher | Event Organizer 🚀</b>
 </p>
