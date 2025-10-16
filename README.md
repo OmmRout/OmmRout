@@ -1,6 +1,6 @@
 💫 About Me:
 
-👋 Hi, I'm Omm Rout — a passionate Web Developer and Tech Innovator from India.
+👋 Hi, I'm Omm Rout — a passionate Web Developer and Tech Innovator from India. /n
 🚀 Founder of Drone Automation System (DAS) — where I explore automation, IoT, and drone technology to solve real-world problems.
 🏆 Winner of 5+ Hackathons, always pushing the boundaries of innovation and creativity.
 💡 I’ve organized and led successful tech events under Mind Spark, inspiring students to explore emerging technologies.
